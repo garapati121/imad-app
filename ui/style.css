@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: white;
     width: 90%;
     margin: auto;
     margin-top: 75px;
@@ -23,7 +23,5 @@ body {
     height: 200px;
 }
 
-*{
-    background-color: white;
-}
+
 
